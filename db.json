@@ -34,37 +34,43 @@
       "id": 6,
       "name": "Cookies",
       "category": "Dessert",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "name": "granola",
       "category": "Produce",
-      "isInCart": false,
+      "isInCart": true,
       "id": 7
     },
     {
       "name": "granola",
       "category": "Produce",
-      "isInCart": false,
+      "isInCart": true,
       "id": 8
     },
     {
       "name": "Kevin",
       "category": "Dessert",
-      "isInCart": false,
+      "isInCart": true,
       "id": 9
     },
     {
       "name": "kevin",
       "category": "Produce",
-      "isInCart": false,
+      "isInCart": true,
       "id": 10
     },
     {
       "name": "kevin",
       "category": "Produce",
-      "isInCart": false,
+      "isInCart": true,
       "id": 11
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": true,
+      "id": 12
     }
   ]
 }
