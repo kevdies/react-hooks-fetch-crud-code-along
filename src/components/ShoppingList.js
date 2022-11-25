@@ -31,7 +31,7 @@ function ShoppingList() {
   }
 
   function handleAddItem(newItem) {
-    setItems(...items, newItem);
+    setItems([...items, newItem]);
     }
     function handleCategoryChange(category) {
       setSelectedCategory(category);
